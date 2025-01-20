@@ -1,0 +1,6 @@
+{
+  "resolutions": {
+    "tar": "^7.0.0",
+    "@achrinza/node-ipc": "^10.0.0"
+  }
+}
